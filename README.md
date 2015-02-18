@@ -1,5 +1,5 @@
-# cryptogram
-A tool to encrypt text (and more on future version!)
+# Cryptogram
+A "small little tiny" tool to encrypt text (and more on future version!)
 
 Right now, Cryptogram is just a basic tool in C# that encrypt/decrypt text with a password using AES encryption.
 For the future i want to add : 
