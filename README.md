@@ -8,8 +8,8 @@ Dans le futur, je tiens à ajouter:
 - L'import / export / création de clé GPG.
 - Le cryptage / décryptage du texte brut en utilisant clé GPG.
 
-Je tiens également à faire une version Java pour que Cryptogram se exécute sur chaque plate-forme et je veux aussi faire une application Android.
-Tous aide est la bienvenu, ceci étant mon premier programme.
+Je tiens également à faire une version Java pour que Cryptogram s'éxécute sur chaque plate-forme et faire une application Android.
+Toute aide est la bienvenue, ceci étant mon premier programme.
 
 
 # Cryptogram (English version)
