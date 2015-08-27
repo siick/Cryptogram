@@ -1,7 +1,7 @@
 # Cryptogram (version française)
 Un petit outil pour crypter du texte (et plus dans le futur!)
 
-À l'heure actuelle, Cryptogram est juste un outil de base en C # pour crypter / décrypter du texte avec un mot de passe en utilisant le cryptage AES 256bits. Il evoluera au vers un developpement objet par la suite.
+À l'heure actuelle, Cryptogram est juste un outil de base en C # pour crypter / décrypter du texte avec un mot de passe en utilisant le cryptage AES 256bits.
 Dans le futur, je tiens à ajouter:
 - Le cryptage / décryptage d'un fichier .txt dans un autre fichier .txt
 - Le cryptage / décryptage des fichiers (peu importe le type)
